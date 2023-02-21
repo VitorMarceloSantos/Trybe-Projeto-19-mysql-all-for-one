@@ -1,4 +1,4 @@
-Projeto Trybe - Mysql<h1 align="center">Projeto 17 - Mysql All For One</h1>
+<h1 align="center">Projeto 17 - Mysql All For One</h1>
 
 <div>
   Para a realização do projeto, foram utilizadas as seguintes tecnologias: MySql.
